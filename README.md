@@ -1,7 +1,7 @@
 # Readme Generator
 
 ## Description
-Generates a readme file based on user input.
+Generates a readme file based on user input. [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,7 +15,7 @@ Generates a readme file based on user input.
 No installation needed just download the code.
 
 ## Contributing
-N/A
+n/a
 
 ## License
 This application is covered under the MIT license. See the [MIT]([License](https://opensource.org/licenses/MIT)) for details.
@@ -27,4 +27,4 @@ Use to create a readme file
 Navigate to the project directory and type node index.js
 
 ## Questions
-If you have any questions, reach out to me at [GitHub](https://github.com/Neongreen64) or via email at example@gmail.com.
+If you have any questions, reach out to me at [GitHub](https://github.com/Neongreen64) or via email at example@example.com.
